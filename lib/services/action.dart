@@ -1,0 +1,5 @@
+enum Action {
+
+  CREATED, ADDED, REMOVED, MODIFIED, DELETED
+
+}
