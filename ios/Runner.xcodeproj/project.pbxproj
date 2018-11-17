@@ -455,7 +455,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = no.rodekors.flutterApp;
+				PRODUCT_BUNDLE_IDENTIFIER = org.discoos.flutterApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -478,7 +478,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = no.rodekors.flutterApp;
+				PRODUCT_BUNDLE_IDENTIFIER = org.discoos.flutterApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};

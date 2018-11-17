@@ -56,7 +56,7 @@ class _MapOfflinePageState extends State<MapOfflinePage> {
   @override
   void initState() {
     super.initState();
-//    var assetPath = "/data/user/0/no.rodekors.flutterapp/app_flutter";
+//    var assetPath = "/data/user/0/org.discoos.flutterapp/app_flutter";
     _baseMaps = <LayerOptions>[
       TileLayerOptions(
         offlineMode: true,
